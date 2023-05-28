@@ -1,0 +1,20 @@
+hospital,tags,location,img,phone
+Maternity Care Hospital,['Gynecology'],https://goo.gl/maps/2e1GejzmQiJYPZoR8,"""img\maternity care.png""",6742541010
+AMRI Hospital,"['Gynecology','Urology','Dermatology','Cardiology']",https://goo.gl/maps/KLRPtFr9b1Sm5ZGN8,"""img\AMRI Hospital.png""",6746666600
+Apollo Hospital,"['Gynecology','Hematology','Neurology','Urology','Orthopedic','Dermatology','Cancer','Cardiology','Gastroenterology']",https://goo.gl/maps/4UYU8Sc4sRvsVE3m7,"""img\Apollo Hospital.jpg""",6747150382
+Care Hospital,"['Gynecology','Urology','Orthopedic','Cardiology','Gastroenterology','Rheumatology']",https://goo.gl/maps/nB4FV77j4bpkHpkXA,"""img\aiims_bhubaneswar.jpg""",4068106589
+Utkal Hospital,"['Gynecology','Neurology']",https://goo.gl/maps/HaPsdVokQtexXBo26,"""img\utkal hospital.png""",6370704001
+SUM Hospital,"['Hematology','Neurology','Cancer','Cardiology','Gastroenterology']",https://goo.gl/maps/V4dr6diDx9BiRZtNA,"""img\sum.jpg""",6742386281
+AIIMS Hospital,"['Hematology','Gastroenterology']",https://goo.gl/maps/fYySV9hs6JiyreNa8,"""img\aiims_bhubaneswar.jpg""",6742476789
+The Hope Cancer Care,['Hematology'],https://goo.gl/maps/3cKaT2SRpHE8WhZ97,"""img\hope cancer care2.jpg""",7008651823
+ORAC,"[Hematology'','Rheumatology']",https://goo.gl/maps/CfGRHoukmLoHQH7p6,"""img\oarc.jpg""",9338653086
+Sparsh Hospital,"['Neurology','Cancer']",https://goo.gl/maps/pqPq2Xj4akB6rq1NA,"""img\sparsh.jpg""",6746626666
+SNAYU Neurology Clinic,['Neurology'],https://goo.gl/maps/naLmHoMAUW7sKh4X8,"""img\snayu.jpg""",7205752753
+KIIMS Hospital,"['Urology','Cancer','Cardiology','Rheumatology']",https://goo.gl/maps/MJf9YgP7hdQWABnz9,"""img\KIMS.jpg""",6747111000
+ISHA Urology Center,['Urology'],https://goo.gl/maps/2pi9kXfhqujQ77su7,"""img\isha urology.png""",8926201130
+Kar Clinic,"['Orthopedic','Dermatology','Rheumatology']",https://goo.gl/maps/CS6Sy6DT9bJqM31p9,"""img\kar clinic.jpg""",6742516666
+OMKAR Health Care,['Orthopedic'],https://goo.gl/maps/KBGMyvgorZVJVFwr9,"""img\omkar.png""",9861156730
+Health Village Hospital,"['Orthopedic','Dermatology','Cancer']",https://goo.gl/maps/fFxiFVHM3b3GydET7,"""img\healthn village.jpg""",6746662555
+ASHU Skin Care,['Dermatology'],https://goo.gl/maps/sU773twjBX28wTce6,"""img\ashu-skin-care.avif""",8270055000
+Sara Gastro & Laparoscopic Hospital,['Gastroenterology'],https://goo.gl/maps/3dXkaxd4ennrrymy7,"""img\sara gastro.png""",6742434601
+Angel Health Care,['Rheumatology'],https://goo.gl/maps/L6w3FfKyneK5UirY9,"""img\angel health care.jpg""",9937156108
