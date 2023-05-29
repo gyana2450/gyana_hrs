@@ -10,7 +10,7 @@ hospital_diseases = {
     'Utkal Hospital': ['Gynecology', 'Neurology'],
     'SUM Hospital': ['Hematology', 'Neurology', 'Cancer', 'Cardiology', 'Gastroenterology'],
     'AIIMS Hospital': ['Hematology', 'Gastroenterology'],
-    'The Hope Cancer Care': ['Hematology'],
+    'The Hope Cancer Care': ['Cancer', 'Hematology'],
     'ORAC': ['Hematology', 'Rheumatology'],
     'Sparsh Hospital': ['Neurology', 'Cancer'],
     'SNAYU Neurology Clinic': ['Neurology'],
